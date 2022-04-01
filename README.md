@@ -1,2 +1,2 @@
-# Image-Preprocessing-Python
-Image Preprocessing with Python
+# Image-Processing-Python
+Image Processing with Python
